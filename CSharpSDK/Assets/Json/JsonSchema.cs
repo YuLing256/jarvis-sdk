@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace ATSDKCsharp.Json;
+namespace ATCSharpSDK.Json;
 
 public sealed class JsonSchema
 {
